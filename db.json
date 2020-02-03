@@ -1,3 +1,7 @@
 {
-  id: true
+  "posts": [
+    {
+      "id": true,
+    }
+  ]
 }
